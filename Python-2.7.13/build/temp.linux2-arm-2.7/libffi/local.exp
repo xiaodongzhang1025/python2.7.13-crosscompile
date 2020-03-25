@@ -1,0 +1,2 @@
+set CC_FOR_TARGET "arm-openwrt-linux-gcc"
+set CXX_FOR_TARGET "arm-openwrt-linux-g++"
